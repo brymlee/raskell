@@ -1,2 +1,2 @@
-ghc assert.hs
-cp assert.o ../..
+ghc Assert.hs
+cp Assert.hs ../html-tag
